@@ -9,6 +9,6 @@ this project is using selenium and BeautifulSoup to scrap data from amazon based
 * this scraper can go to the next page with ease 
 * the scraper save the data in a csv file that can be used later in any kind of projects
 
-#image
+# image
 
 ![Screenshot 2023-02-20 223401](https://user-images.githubusercontent.com/54186130/220194746-b37cdd4b-0331-4c6d-98d6-0619eb000d62.png)
